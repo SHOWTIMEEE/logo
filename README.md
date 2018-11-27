@@ -1,2 +1,2 @@
 # LOGO
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/showtimeee_logo.png)
